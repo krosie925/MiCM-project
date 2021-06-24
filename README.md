@@ -9,7 +9,7 @@ nilearn:
  
 Run: 
 nilearn_plotting_example.ipynb
-(this is a jupyter notebook, so I'd recommend using Anaconda) 
+(this is a jupyter notebook) 
   
 
 
